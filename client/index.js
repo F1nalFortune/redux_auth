@@ -11,10 +11,3 @@ ReactDOM.render(
   </Provider>,
   document.getElementById('content')
 );
-
-
-
-
-
-
-

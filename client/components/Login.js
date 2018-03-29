@@ -39,8 +39,8 @@ class Login extends React.Component {
         </form>
         <h2>Sign In</h2>
         <form onSubmit={this.signIn}>
-          <input ref="Email" placeholder="email" />
-          <input type="password" ref="Password" placeholder="password" />
+          <input ref="email" placeholder="email" />
+          <input type="password" ref="password" placeholder="password" />
           <br />
           <button className="btn" type="submit">
             Sign In
